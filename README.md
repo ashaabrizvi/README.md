@@ -11,5 +11,5 @@
 [![Website Badge](https://img.shields.io/badge/-Ashaab_Rizvi-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:https://ashaabrizvi.github.io/)](https://ashaabrizvi.github.io)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ashaabrizvi11@gmail.com)](mailto:ashaabrizvi11@gmail.com)
 
-
+![Ashaab's github stats](https://github-readme-stats.vercel.app/api?username=ashaabrizvi&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashaabrizvi&layout=compact&theme=dark)](https://github.com/ashaabrizvi)
