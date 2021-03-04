@@ -12,4 +12,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ashaabrizvi11@gmail.com)](mailto:ashaabrizvi11@gmail.com)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashaabrizvi&layout=compact&theme=tokyonight)](https://github.com/ashaabrizvi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashaabrizvi&layout=compact&theme=dark)](https://github.com/ashaabrizvi)
