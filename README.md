@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I'm Ashaab</h1>
+<h1 align="center">Hi,<img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />I'm Ashaab</h1>
 <h3 align="center">Pythonic | Kaggler | Avid Reader</h3>
 
 
